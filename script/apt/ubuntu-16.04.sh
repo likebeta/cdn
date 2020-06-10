@@ -2,5 +2,5 @@
 # -*- coding=utf-8 -*-
 
 mv /etc/apt/sources.list /etc/apt/sources.list.bak
-wget -O /etc/apt/sources.list https://cdn.jsdelivr.net/gh/likebeta/cdn@master/script/ubuntu-16.04.list
+wget -O /etc/apt/sources.list https://cdn.jsdelivr.net/gh/likebeta/cdn@master/script/apt/ubuntu-16.04.list
 apt update
